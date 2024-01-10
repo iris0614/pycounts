@@ -1,5 +1,5 @@
-from pycounts import pycounts
-from pycounts.pycounts import count_words
+from pycountsiris0614 import pycountsiris0614
+from pycountsiris0614.pycountsiris0614 import count_words
 from collections import Counter
 
 def test_count_words():
