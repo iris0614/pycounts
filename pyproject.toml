@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts"
+name = "pycountsiris0614"
 version = "0.1.0"
 description = "Calculate word counts in a text file!"
 authors = ["iris"]
