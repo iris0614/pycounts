@@ -7,8 +7,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u"pycounts"
-copyright = u"2024, [A[Biris"
-author = u"[A[Biris"
+copyright = u"2024,iris"
+author = u"iris"
 
 # -- General configuration ---------------------------------------------------
 
