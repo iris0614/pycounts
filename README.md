@@ -1,21 +1,21 @@
-# pycounts
+# pycountsiris0614
 
 Calculate word counts in a text file!
 
 ## Installation
 
 ```bash
-$ pip install pycounts
+$ pip install pycountsiris0614
 ```
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycountsiris0614` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycountsiris0614.pycounts import count_words
+from pycountsiris0614.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
@@ -30,8 +30,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`pycounts` was created by [A[Biris. It is licensed under the terms of the MIT license.
+`pycountsiris0614` was created by iris. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`pycounts` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`pycountsiris0614` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
